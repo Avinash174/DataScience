@@ -1,1 +1,3 @@
 python/Datasets
+python/Dataset/*.csv.zip
+python/Dataset/*.csv

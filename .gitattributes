@@ -3,3 +3,5 @@ python/Dataset/zomato.csv filter=lfs diff=lfs merge=lfs -text
 python/Dataset/ZomatoRestaurantsIndia.csv filter=lfs diff=lfs merge=lfs -text
 *.csv.zip filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+python/Dataset/*.csv.zip filter=lfs diff=lfs merge=lfs -text
+python/Dataset/*.csv filter=lfs diff=lfs merge=lfs -text
